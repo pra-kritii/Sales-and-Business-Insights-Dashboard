@@ -66,7 +66,7 @@ Analyzes contribution of various online platforms such as:
 
 # 📷 Dashboard Preview
 
-![Dashboard](Vrinda_Store_Dashboard.png)
+![Dashboard]([Vrinda_Store_Dashboard.png](https://github.com/pra-kritii/Sales-and-Business-Insights-Dashboard/blob/main/Screenshot%202026-03-17%20010856.png))
 
 ---
 
