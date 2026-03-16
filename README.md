@@ -66,7 +66,8 @@ Analyzes contribution of various online platforms such as:
 
 # 📷 Dashboard Preview
 
-![Dashboard]([Screenshot%202026-03-17%20010856.png])
+<img width="871" height="625" alt="Screenshot 2026-03-17 010856" src="https://github.com/user-attachments/assets/2f0577eb-ecd2-4553-85f3-4ebae424779b" />
+
 
 ---
 
